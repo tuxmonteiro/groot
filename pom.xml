@@ -14,7 +14,7 @@
         <java.version>1.8</java.version>
         <timestamp>${maven.build.timestamp}</timestamp>
         <disruptor.version>3.4.4</disruptor.version>
-        <netty.version>4.2.3.Final</netty.version>
+        <netty.version>4.2.4.Final</netty.version>
     </properties>
 
     <profiles>
